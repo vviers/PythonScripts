@@ -1,4 +1,4 @@
-# script.py
+#!/home/vincent/anaconda3/bin/python
 
 from time import sleep
 import sys
